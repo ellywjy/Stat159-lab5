@@ -1,1 +1,6 @@
-Made changes to file1...
+Made changes to file1..
+
+Added a few more lines for Task 3:
+One
+Two
+Three.
